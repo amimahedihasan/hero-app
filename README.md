@@ -6,8 +6,8 @@ Description: Hero Apps is a modern React-based web app. This app is built using 
 Technologies: 
 
     => @tailwindcss/vite
+    => axios
     => react
-    => react-dom
     =>  react-icons
     => react-router
     =>  react-router-dom
