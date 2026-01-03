@@ -8,6 +8,7 @@ Technologies:
     => @tailwindcss/vite
     => axios
     => react
+    => react-dom
     =>  react-icons
     => react-router
     =>  react-router-dom
